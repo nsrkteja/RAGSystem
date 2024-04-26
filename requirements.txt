@@ -1,0 +1,5 @@
+rapidocr-onnxruntime
+pypdf
+langchain-community
+langchain-text-splitters
+langchain-google-genai
